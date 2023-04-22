@@ -1,0 +1,2 @@
+pyinstaller --onefile --windowed --clean gui.py
+set-executionpolicy remotesigned -scope currentuser
