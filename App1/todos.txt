@@ -3,6 +3,5 @@ good paper
 process right
 improve GUI
 Better results
-product
 program
 finish experiment
