@@ -1,5 +1,8 @@
 prepare
-process
-Better
+good paper
+process right
+improve GUI
+Better results
 product
-develop GUI
+program
+finish experiment
