@@ -1,9 +1,6 @@
-prepare
-good paper
-process right
 improve GUI
 Better results
 program
 finish experiment
-news
 web app
+prepare a paper
